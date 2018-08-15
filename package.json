@@ -1,0 +1,16 @@
+{
+  "name": "sass_gulp_template",
+  "version": "1.0.0",
+  "description": "Boiler plate for Sass projects using gulp.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Yvonne Reyes",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
